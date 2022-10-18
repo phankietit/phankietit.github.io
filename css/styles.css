@@ -3662,7 +3662,7 @@ img.u-pull-left {
 
 .folio-list__item-pic img {
     vertical-align: bottom;
-    object-fit: cover;
+    object-fit: contain;
     width: var(--item-min-height);
     height: var(--item-min-height);
     margin: 0;
